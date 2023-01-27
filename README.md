@@ -1,7 +1,5 @@
 ## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Build Your Dream
 
-Senior Web, Blockchain and Mobile developer who has 7 years experience.
-Experience in Leading a team of front-end, back-end and smart contract developers.
 Developed DeFi, NFT marketplace and Tokens on Ethereum, Polygon and Binance Smart Chain.
 Developed and Updated Blockchain games (P2E) using Unity and Moralis, and Integrated with NFT.
 Advanced knowledge of multiple programming languages, frameworks and extensive
